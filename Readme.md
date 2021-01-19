@@ -1,5 +1,4 @@
 Technical Test for  DevOps Engineers.
-3days to provide the solution. ONLY respond if you are willing to take this challenge.
 
 Please see below the details of Technical test. Your solution must -
 • be implemented using Terraform
